@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">楽天商品検索アプリ</string>
+    <string name="searchButton">検索</string>
+    <string name="narrowingDown_Button">絞り込み設定</string>
+    <string name="previousPage">前のページへ</string>
+    <string name="nextPage">次のページへ</string>
+
+    <string name="goBack">検索画面へ戻る</string>
+</resources>
